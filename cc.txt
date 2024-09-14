@@ -1,0 +1,3 @@
+Cloud computing is a service which provide virtual platform
+virtuliation 
+SAAS , PAAS and IAAS are the services provided 
